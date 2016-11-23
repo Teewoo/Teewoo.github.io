@@ -1,0 +1,48 @@
+.sign{
+	float: right;
+}
+.midl{
+	padding: 200px;
+	
+}
+input{
+	margin-left: 150px;
+	height: 50px;
+	width: 600px;
+}
+.bsign{
+	background-color: #4d79ff;
+	border-radius: 3px;
+	color: white;
+
+	border:none !important;
+
+}
+.btn{
+	margin-left: 350px;
+	
+}
+p{
+	margin-left: 250px;
+	
+}
+footer{
+	background-color: #f2f2f2;
+	height: 40px;
+	background-position: fixed;
+}
+.ads{
+	float: left;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.sett{
+	float: right;
+	padding: 10px;
+}
+a{
+	text-decoration: none;
+	color:  #737373;
+
+}

@@ -1,0 +1,89 @@
+body{
+	font-family: arial sans-serif;
+}
+
+a{
+	font-size: 14px;
+	text-decoration: none;
+	color: #6f6f6f;
+	margin-left: 10px;
+}
+header{
+	
+	padding-top: 10px;
+	width: 100%;
+}
+nav{
+	padding-left: 20px;
+	padding-right: 20px;
+	float: right;	
+}
+
+nav a{
+	opacity: .85;
+	color: black;
+	margin-left: 10px;
+}
+#ap{
+	height: 25px;
+	width: 25px;
+	margin-left: 15px;
+}
+a#signin{
+	background-color: #4d90fe;
+	color: #fff;
+	padding: 5px 10px;
+	border-radius: 2px;
+	border: 1px solid #3079ed;
+}
+
+section{
+	padding-top: 100px;
+	width: 100%;
+	display: block;
+	
+
+}
+#img{
+	height: 250px;
+	width: 270px;
+	margin: auto;
+	display: block;
+	
+}
+
+
+
+
+section input{
+	display: block;
+	margin: 30px auto;
+	width: 500px;
+	height: 40px;
+	border-radius: 5px;
+
+}
+input:active{
+	border-color: #4683ea;
+}
+input:hover{
+	border-color:red;
+}
+section div{
+
+}
+button{
+	padding: 7px;
+	width: 150px;
+	background-color: #ccc
+}
+a:hover{
+	text-decoration: underline;
+}
+footer{
+	margin-top: 150px;
+}
+
+footer a:nth-child(7), footer a:nth-child(6), footer a:nth-child(5), footer a:nth-child(4){
+	float: right;
+}
