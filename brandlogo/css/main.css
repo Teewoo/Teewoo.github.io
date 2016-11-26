@@ -1,0 +1,100 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body{
+	background-color: #f2f2f2;
+}
+li{
+	float: right;
+	margin: 5px;
+    list-style-type: none;
+}
+li a{
+
+}
+h1{
+	
+}
+.brandlogo{
+	width: 100%;
+}
+.brand{
+   padding-top: 50px;
+   padding-left: 200px;
+}
+.register{
+	margin-top: -50px;
+	padding-right: 250px;
+}
+.nav{
+	margin-top: 80px;
+	
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.nav ul li{
+	margin: 23px;
+}
+.jumbotron{
+	background-color: green;
+	height: 450px;
+}
+h2{
+	font-size: 100px;
+}
+.jumbotron p{
+	font-size: 50px;
+	color: white;
+}
+/*.brand span{
+	padding-left: 150px;
+	padding: -50px;
+}*/
+.ti{
+	height:60px;
+	width: 30px;
+}
+.btn{
+	border-radius: 17px;
+	color:white;
+	background-color: red;
+	border-style:none;
+	width: 120px;
+	font-size: 10px;
+}
+.row{
+	padding-left:90px;
+	padding-right:90px;
+
+}
+.shoes{
+	background-color: white;
+	width: 75%
+}
+h4{
+	padding-left: 100px;
+}
+#views{
+	padding-right: 100px;
+}
+.con{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
